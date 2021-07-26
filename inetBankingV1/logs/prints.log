@@ -1,0 +1,5 @@
+21:18:04.452 [main] INFO  com.inetBanking.testCases.TC_LoginTest_001 - Login credential entered
+21:18:05.352 [main] INFO  com.inetBanking.testCases.TC_LoginTest_001 - Login test passed
+21:28:54.709 [main] INFO  com.inetBanking.testCases.TC_LoginTest_001 - URL launched successfully
+21:28:55.200 [main] INFO  com.inetBanking.testCases.TC_LoginTest_001 - Login credential entered
+21:28:55.763 [main] INFO  com.inetBanking.testCases.TC_LoginTest_001 - Login test passed
